@@ -6,3 +6,5 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ******///
 
+console.log('137 Dolaress en Yenes corresponde a:');
+console.log(euroToYen(dollarToEuro(137)));
